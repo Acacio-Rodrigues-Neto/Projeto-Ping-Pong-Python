@@ -1,4 +1,4 @@
-# Criado em 15/03/2022 - Acacio Rodrigues Neto
+# Acacio Rodrigues Neto
 # Game Ping-Pong
 
 # Imports
